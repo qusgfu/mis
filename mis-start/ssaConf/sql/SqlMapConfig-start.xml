@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Converted at: Sat Nov 29 18:30:41 
+	CST 2014 -->
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD SQL Map Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<settings>
+		<setting name="lazyLoadingEnabled" value="true" />
+		<setting name="jdbcTypeForNull" value="NULL" />
+		<!--  <setting name="mapUnderscoreToCamelCase" value="true" />   -->
+		 <setting name="logImpl" value="LOG4J2" />
+		 <setting name="callSettersOnNulls" value="true"/>
+	</settings>
+	 
+</configuration>
